@@ -71,7 +71,7 @@ Thumbs.db
 # MCP specific
 # Keep uv.lock (dependency lock file should be committed)
 # Keep pyproject.toml (project configuration)
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/main
+# Misc
+google-cloud-sdk/
+google-cloud-cli-linux-x86_64.tar.gz
