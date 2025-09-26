@@ -8,7 +8,3 @@ Mission: T83 Custom MCP Development - Strategic Cross-Project Delegation
 
 __version__ = "1.0.0"
 __author__ = "Cod.1 (Coder Agent)"
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
